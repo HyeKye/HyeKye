@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 🎓 I graduated from the University of California, Santa Cruz with a major in Philosophy and Legal Studies
-- ⚖️ I was on the path to a become a corporate lawyer but pivoted to becoming a full-stack developer after a friend of mine talked about his lifestyle working in big tech.
+- ⚖️ I attended the University of San Diego, School of Law and was on the path to a become a corporate lawyer. I pivoted to becoming a developer after entering the web3 space in early 2022. 
 - 💪 I love fitness, surfing, and anything else that involves bringing my family outdoors!
 - :speech_balloon: Ask me about full-stack, web, NFTs, crypto, or literally anything!
 - :mailbox: You can reach me with the links below
