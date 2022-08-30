@@ -23,3 +23,4 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 
 *currently learning
+![Snake animation](https://github.com/HyeKye/HyeKye/blob/output/github-contribution-grid-snake.svg)
